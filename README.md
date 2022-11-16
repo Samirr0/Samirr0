@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Samirr0
+- 👋 Hi, I’m @Samirr
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning HTML,Css,Javascript
 - 💞️ I’m looking to collaborate on Companys
